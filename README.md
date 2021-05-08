@@ -12,6 +12,12 @@ Our goal is to create a data base in PostgreSQL that combine the three data set.
 ## Description
    ![Plot1](MUSIC%20MASTER/images/Processs1.png)  
    
+   ## Links
+  PROYECT : https://github.com/NEXTSLIM/PROYECT-II-The-Music-has-Changed  ▌
+  
+  WEBSIDE: https://nextslim.github.io/The-Music-has-Changed-WEBSIDE/ 'WEB SIDE ONLY FOR LAPTOP OR PC"
+   
+   
  ## Data sources:
 SALES DATA: https://www.riaa.com//
 Spotify DATA: https://www.kaggle.com/yogeshtak
