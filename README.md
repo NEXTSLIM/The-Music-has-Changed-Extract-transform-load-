@@ -8,7 +8,7 @@ The second data set contain the followers  and Spotify popularity by album, arti
 We want Extract, transform and load this in order to inbdenfi some insides and trends.  
 
 ## Description
-   ![Plot1](Phillips%20curve/output_data/Unemployment%20Rate.png)  ![Plot2](Phillips%20curve/output_data/Inflation%20Rate.png)
+   ![Plot1](MUSIC%20MASTER/images/Processs1.png)  
    
  ## Data sources:
 SALES DATA: https://www.riaa.com//
