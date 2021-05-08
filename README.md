@@ -1,6 +1,6 @@
 # The Music has Changed
 
-In this project, We going to examine two data sets relate with music. 
+In this project, We going to examine two data sets relate with the music Industry.
 
 The first contain the music sales from 1973 to 2019 in USA,  based on sales data by the Recording Industry Industry Association of America (RIAA). 
 The second data set contain the followers  and Spotify popularity by album, artist and songs for the last teen years. 
