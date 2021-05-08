@@ -15,7 +15,8 @@ Our goal is to create a data base in PostgreSQL that combine the three data set.
    ## Links
   PROYECT : https://github.com/NEXTSLIM/PROYECT-II-The-Music-has-Changed  
   
-  WEBSIDE: https://nextslim.github.io/The-Music-has-Changed-WEBSIDE/ ▌ 'WEB SIDE ONLY FOR LAPTOP OR PC" ▌
+  WEBSIDE: https://nextslim.github.io/The-Music-has-Changed-WEBSIDE/     
+  ▌ 'WEB SIDE ONLY FOR LAPTOP OR PC" ▌
    
    
  ## Data sources:
