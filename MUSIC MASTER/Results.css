@@ -1,0 +1,148 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 1096px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  margin-top: 39px;
+  margin-bottom: 4px;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 1053px;
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding-left: 50px;
+  padding-right: 89px;
+  padding-bottom: 0;
+}
+
+.u-section-1 .u-text-1 {
+  animation-duration: 1000ms;
+  margin: -13px 311px 0 0;
+}
+
+.u-section-1 .u-video-1 {
+  width: 1090px;
+  height: 759px;
+  animation-duration: 1000ms;
+  margin: 17px -108px 0 0;
+}
+
+.u-section-1 .embed-responsive-1 {
+  position: absolute;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 1.8;
+  font-size: 1.25rem;
+  animation-duration: 1000ms;
+  margin: 22px -89px 0 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 1053px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 878px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    position: relative;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 404px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 41px;
+    padding-right: 73px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 114px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 785px;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-2 {
+    position: relative;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 340px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 1580px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 87px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 369px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 32px;
+    padding-right: 56px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 648px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 310px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-layout-wrap-1 {
+    margin-top: 35px;
+    margin-bottom: 8px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 403px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 24px;
+    padding-right: 42px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 520px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 271px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 15px;
+    padding-right: 27px;
+  }
+
+  .u-section-1 .u-video-1 {
+    width: 320px;
+  }
+}
